@@ -53,18 +53,18 @@
 				<span>Gunakan kredensial yang diberikan admin untuk mengakses sistem.</span>
 			</div>
 		</section>
-		<aside class="login-showcase tilt-card" data-float="18">
-			<div class="showcase-sphere"></div>
-			<div class="showcase-header">
-				<h2>Kelompok Rizky Ganteng</h2>
-				<p>Tim kreatif yang memadukan teknologi dan gaya untuk pengalaman kasir masa depan.</p>
-			</div>
-			<ul class="feature-list">
-				<li><i class="fas fa-chart-line"></i> Muhammad Rizky: otak strategis yang menjaga data selalu akurat.</li>
-				<li><i class="fas fa-box-open"></i> Mizyal Jillauzi: arsitek sistem yang memastikan alur kerja licin tanpa hambatan.</li>
-				<li><i class="fas fa-shield-alt"></i> Zoel Fikar: penjaga keamanan yang membuat autentikasi terasa elegan dan sigap.</li>
-			</ul>
-		</aside>
+<aside class="login-showcase tilt-card" data-float="18">
+  <div class="showcase-sphere"></div>
+  <div class="showcase-header">
+    <h2>SIM Penjualan</h2>
+    <p>Sistem informasi penjualan untuk mengelola transaksi, stok, dan laporan secara terpusat.</p>
+  </div>
+  <ul class="feature-list">
+    <li><i class="fas fa-chart-line"></i> Monitoring penjualan harian dan ringkasan laporan.</li>
+    <li><i class="fas fa-box-open"></i> Manajemen produk dan stok yang terstruktur.</li>
+    <li><i class="fas fa-shield-alt"></i> Autentikasi pengguna agar akses data lebih aman.</li>
+  </ul>
+</aside>
 	</main>
 
 	<script type="text/javascript" src="assets/js/vanilla-tilt.min.js"></script>
